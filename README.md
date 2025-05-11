@@ -30,16 +30,14 @@ FicZon Inc, a provider of on-premises and SaaS IT solutions, is experiencing a d
 - Imputation for Empty Strings
 - Check null values
 - Removing duplicates
-- Identifying & Handling the outliers
-  - Boxplot
-  - Winsorize
+- Identifying & Handling the outliers(`Boxplot & Winsorize`)
 - Checking Skewness
 - Encoding categorical features(`LabelEncoder`)
 - Feature selection
-- Feature scaling (`MinMaxScaler`)
-- Splitting dataset into training & testing sets (`train_test_split`)
-- Feature Balancing
-  - SMOTE
+- Feature scaling(`MinMaxScaler`)
+- Splitting dataset into training & testing sets(`train_test_split`)
+- Feature Balancing(`SMOTE`)
+
   
 ### 3. Machine Learning Models
 The project implements multiple machine learning models & one deep learning model for classification:
