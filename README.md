@@ -74,7 +74,7 @@ Ensure you have the following installed:
 3. Open the Jupyter Notebook:
    jupyter notebook PRCL-0019-Sales Effectiveness.ipynb
 
-## CONCLUSION
+## Conclusion
 - The **Gradient Boosting** achieved the highest accuracy score (0.71), making it the **most effective model** among those evaluated.
 - Ensemble methods like **Random Forest**, **XGBoost** and **Gradient Boosting** consistently outperformed traditional models, showing their strength in handling complex patterns.
 - By strategically focusing on the insights revealed through Data Exploration, result in a significant boost in sales effectiveness.
