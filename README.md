@@ -51,12 +51,12 @@ The project implements multiple machine learning models & one deep learning mode
 - Multi-layer Perceptron (MLP) Classifier
 
 ### 4. Hyperparameter Tuning
-- **GridSearchCV** is used to optimize model parameters.
+- GridSearchCV is used to optimize model parameters.
 
 ### 5. Model Evaluation
-- **Accuracy Score**
-- **Confusion Matrix**
-- **Classification Report**
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
 
 ## Installation & Usage
 
